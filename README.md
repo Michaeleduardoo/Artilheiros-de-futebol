@@ -125,7 +125,7 @@ A aplicação utiliza a API oficial do futebol brasileiro:
 
 ```javascript
 const API_BASE_URL = "https://api.api-futebol.com.br/v1"
-const CAMPEONATO_ID = "10" // Brasileiro Série A 2024
+const CAMPEONATO_ID = "10" // Brasileiro Série A 2025
 const ENDPOINT = `/campeonatos/${CAMPEONATO_ID}`
 ```
 
