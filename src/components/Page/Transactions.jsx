@@ -52,7 +52,7 @@ const Transactions = () => {
   return (
     <section>
       <h1>Artilharia do futebol </h1>
-      <h2>Brasileiro de 2024</h2>
+      <h2>Brasileiro de 2025</h2>
 
       {currentItems.map((scorer, index) => (
         <TransactionItem
